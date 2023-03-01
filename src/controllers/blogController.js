@@ -1,7 +1,7 @@
 
 import Blog from "../model/blog1.js"
 
-import multer from 'multer';
+
 
 
 class blogController {
